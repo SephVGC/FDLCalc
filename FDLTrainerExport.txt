@@ -1,0 +1,1381 @@
+SEPH (Ogerpon)
+Ability: Defiant
+Level: 63
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Ivy Cudgel
+- Play Rough
+- Knock Off
+- Horn Leech
+
+SEPH (Golduck) @ Life Orb
+Ability: Swift Swim
+Level: 65
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Vacuum Wave
+- Hydro Pump
+- Ice Beam
+- Psychic
+
+SEPH (Iron Hands) @ Assault Vest
+Ability: Quark Drive
+Level: 63
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Fake Out
+- Wild Charge
+- Drain Punch
+- Heavy Slam
+
+SEPH (Arcanine-Hisui)
+Ability: Intimidate
+Level: 63
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Flare Blitz
+- Rock Slide
+- Extreme Speed
+- Head Smash
+
+SEPH (Garchomp)
+Ability: Rough Skin
+Level: 63
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Earthquake
+- Outrage
+- Iron Head
+- Fire Blast
+
+COOPERHAWK (Starly) @ Focus Sash
+Ability: Reckless
+Level: 14
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Endeavor
+- Quick Attack
+
+COOPERHAWK (Haxorus)
+Ability: Mold Breaker
+Level: 14
+Serious Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Guillotine
+
+STAX (Staraptor)
+Ability: Reckless
+Level: 18
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Brave Bird
+- Quick Attack
+- Submission
+- U-turn
+
+STAX (Gallade)
+Ability: Sharpness
+Level: 18
+Serious Nature
+IVs: 15 HP / 10 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
+- Psycho Cut
+- Sacred Sword
+- Knock Off
+- Ice Punch
+
+STAX (Flygon)
+Ability: Levitate
+Level: 18
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Earth Power
+- Dragon Pulse
+- Flame Burst
+- Giga Drain
+
+STAX (Iron Bundle)
+Ability: Quark Drive
+Level: 19
+Serious Nature
+IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
+- Aurora Beam
+- Chilling Water
+- Encore
+- Flip Turn
+
+STAX (Trevenant) @ Sitrus Berry
+Ability: Harvest
+Level: 20
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Horn Leech
+- Rock Slide
+- Protect
+- Poltergeist
+
+CONFUSED (Bronzong)
+Ability: Levitate
+Level: 25
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Psychic
+- Flash Cannon
+- Hypnosis
+- Stealth Rock
+
+CONFUSED (Spectrier)
+Ability: Grim Neigh
+Level: 25
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Shadow Ball
+- Draining Kiss
+
+CONFUSED (Thundurus)
+Ability: Prankster
+Level: 25
+Serious Nature
+IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
+- Thunder Wave
+- Thunderbolt
+- Air Cutter
+- Focus Blast
+
+CONFUSED (Dudunsparce)
+Ability: Serene Grace
+Level: 26
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Glare
+- Hyper Drill
+- Earth Power
+- Roost
+
+CONFUSED (Pawmot) @ Focus Sash
+Ability: Iron Fist
+Level: 27
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Double Shock
+- Close Combat
+- Fake Out
+- Thunder Punch
+
+MIKE (Snorlax)
+Ability: Thick Fat
+Level: 45
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Curse
+- Rest
+- Body Slam
+- Yawn
+
+MIKE (Tangela) @ Eviolite
+Ability: Chlorophyll
+Level: 45
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Sleep Powder
+- Giga Drain
+- Leech Seed
+- Protect
+
+MIKE (Ludicolo)
+Ability: Swift Swim
+Level: 45
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Fake Out
+- Scald
+- Ice Beam
+- Giga Drain
+
+MIKE (Gengar)
+Ability: Cursed Body
+Level: 45
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Hypnosis
+- Dream Eater
+- Nasty Plot
+- Sludge Wave
+
+MIKE (Mimikyu)
+Ability: Disguise
+Level: 45
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Phantom Force
+- Swords Dance
+- Play Rough
+- Shadow Sneak
+
+CARNEY (Skarmory) @ Red Card
+Ability: Sturdy
+Level: 74
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Spikes
+- Roost
+- U-turn
+- Whirlwind
+
+CARNEY (Heatran) @ Chesto Berry
+Ability: Flame Body
+Level: 74
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Iron Defense
+- Body Press
+- Rest
+- Magma Storm
+
+CARNEY (Metagross) @ Assault Vest
+Ability: Clear Body
+Level: 74
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Heavy Slam
+- Bullet Punch
+- Psychic Fangs
+- Explosion
+
+CARNEY (Gholdengo) @ Metal Coat
+Ability: Good as Gold
+Level: 74
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Recover
+
+CARNEY (Kingambit) @ Dread Plate
+Ability: Defiant
+Level: 74
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Swords Dance
+- Sucker Punch
+- Kowtow Cleave
+- Substitute
+
+KD (Maushold) @ Wide Lens
+Ability: Technician
+Level: 73
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Population Bomb
+- Trailblaze
+- Bite
+- Aerial Ace
+
+KD (Annihilape) @ Choice Scarf
+Ability: Defiant
+Level: 73
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Rage Fist
+- U-turn
+- Close Combat
+- Ice Punch
+
+KD (Ogerpon-Wellspring) @ Wellspring Mask
+Ability: Water Absorb
+Level: 73
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Ivy Cudgel
+- Swords Dance
+- Play Rough
+- Knock Off
+
+KD (Raging Bolt) @ Wise Glasses
+Ability: Protosynthesis
+Level: 73
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Thunderclap
+- Thunderbolt
+- Dragon Pulse
+- Volt Switch
+
+KD (Dragonite) @ Leftovers
+Ability: Multiscale
+Level: 72
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Earthquake
+- Dragon Dance
+- Extreme Speed
+- Roost
+
+SPLATTY (Grimmsnarl) @ Muscle Band
+Ability: Prankster
+Level: 71
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Bulk Up
+- Drain Punch
+- Darkest Lariat
+- Spirit Break
+
+SPLATTY (Goodra-Hisui) @ Leftovers
+Ability: Shell Armor
+Level: 71
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Shelter
+- Life Dew
+- Body Press
+- Heavy Slam
+
+SPLATTY (Sinistcha) @ Sitrus Berry
+Ability: Heatproof
+Level: 71
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Calm Mind
+- Strength Sap
+- Matcha Gotcha
+- Shadow Ball
+
+SPLATTY (Togekiss) @ Wide Lens
+Ability: Serene Grace
+Level: 71
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Thunder Wave
+- Dazzling Gleam
+- Air Slash
+- Flamethrower
+
+SPLATTY (Garganacl) @ Maranga Berry
+Ability: Purifying Salt
+Level: 72
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Salt Cure
+- Protect
+- Recover
+- Fissure
+
+JUDE (Weezing-Galar) @ Black Sludge
+Ability: Neutralizing Gas
+Level: 72
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Moonblast
+- Sludge Wave
+- Toxic Spikes
+- Explosion
+
+JUDE (Latias) @ Leftovers
+Ability: Levitate
+Level: 72
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Calm Mind
+- Fickle Beam
+- Thunderbolt
+- Recover
+
+JUDE (Tyranitar) @ Assault Vest
+Ability: Sand Stream
+Level: 72
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Head Smash
+- Pursuit
+- Earthquake
+- Psychic Fangs
+
+JUDE (Araquanid) @ Leftovers
+Ability: Water Bubble
+Level: 72
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Infestation
+- Waterfall
+- Glare
+- Aqua Ring
+
+JUDE (Arcanine) @ Leftovers
+Ability: Infiltrator
+Level: 72
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Wood Hammer
+- Shadow Sneak
+- Phantom Force
+- Leech Seed
+
+WEEESE (Raichu) @ Focus Sash
+Ability: Lightning Rod
+Level: 38
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Endeavor
+- Volt Switch
+- Reflect
+- Light Screen
+
+WEEESE (Tinkaton)
+Ability: Own Tempo
+Level: 38
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Hard Press
+- Gigaton Hammer
+- Play Rough
+- Endeavor
+
+WEEESE (Venusaur)
+Ability: Overgrow
+Level: 38
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Giga Drain
+- Sludge Bomb
+- Leech Seed
+- Sleep Powder
+
+WEEESE (Goodra-Hisui)
+Ability: Sap Sipper
+Level: 38
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Breaking Swipe
+- Iron Head
+- Rest
+- Curse
+
+WEEESE (Milotic) @ Leftovers
+Ability: Competitive
+Level: 38
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Hydro Pump
+- Blizzard
+- Coil
+- Recover
+
+TETR15 (Haxorus) @ Loaded Dice
+Ability: Unnerve
+Level: 67
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Scale Shot
+- Close Combat
+- Poison Jab
+- Swords Dance
+
+TETR15 (Dracovish) @ Choice Scarf
+Ability: Strong Jaw
+Level: 67
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Fishious Rend
+
+TETR15 (Blaziken)
+Ability: Speed Boost
+Level: 66
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Swords Dance
+- Flare Blitz
+- Close Combat
+- Stone Edge
+
+TETR15 (Mamoswine)
+Ability: Oblivious
+Level: 67
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Icicle Crash
+- Earthquake
+- Knock Off
+- Ice Shard
+
+TETR15 (Ogerpon-Cornerstone) @ Cornerstone Mask
+Ability: Sturdy
+Level: 67
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Swords Dance
+- Ivy Cudgel
+- Horn Leech
+- Low Kick
+
+TETR15 (Enamorus)
+Ability: Contrary
+Level: 66
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Superpower
+- Fly
+- Play Rough
+- Zen Headbutt
+
+CheatToWin (Blastoise) @ White Herb
+Ability: Torrent
+Level: 65
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Shell Smash
+- Surf
+- Ice Beam
+- Aura Sphere
+
+CheatToWin (Blacephalon)
+Ability: Beast Boost
+Level: 63
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Fire Blast
+- Shadow Ball
+- Energy Ball
+- Will-O-Wisp
+
+CheatToWin (Garganacl)
+Ability: Purifying Salt
+Level: 65
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Stealth Rock
+- Salt Cure
+- Recover
+- Protect
+
+CheatToWin (Scizor)
+Ability: Technician
+Level: 65
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Bullet Punch
+- U-turn
+- Knock Off
+- Close Combat
+
+CheatToWin (Raging Bolt)
+Ability: Protosynthesis
+Level: 65
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Calm Mind
+- Thunderclap
+- Dragon Pulse
+- Thunderbolt
+
+LOAFUS (Sableye)
+Ability: Prankster
+Level: 65
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Knock Off
+- Will-O-Wisp
+- Recover
+- Taunt
+
+LOAFUS (Cinderace)
+Ability: Libero
+Level: 65
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Pyro Ball
+- Gunk Shot
+- High Jump Kick
+- U-turn
+
+LOAFUS (Primarina)
+Ability: Liquid Voice
+Level: 65
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Moonblast
+- Surf
+- Ice Beam
+- Flip Turn
+
+LOAFUS (Mienshao)
+Ability: Inner Focus
+Level: 65
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Close Combat
+- Ice Spinner
+- Knock Off
+- U-turn
+
+LOAFUS (Garchomp)
+Ability: Rough Skin
+Level: 65
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Dragon Claw
+- Stomping Tantrum
+- Swords Dance
+- Fire Fang
+
+KIDD (Gardevoir)
+Ability: Trace
+Level: 65
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Dazzling Gleam
+- Mystical Fire
+- Trick Room
+- Calm Mind
+
+KIDD (Garchomp)
+Ability: Rough Skin
+Level: 65
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Swords Dance
+- Substitute
+- Earthquake
+- Dragon Claw
+
+KIDD (Magnezone)
+Ability: Analytic
+Level: 65
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Discharge
+- Flash Cannon
+- Volt Switch
+- Explosion
+
+JORDAN (Klefki)
+Ability: Prankster
+Level: 25
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Draining Kiss
+- Foul Play
+- Calm Mind
+- Thunder Wave
+
+JORDAN (Zoroark-Hisui)
+Ability: Illusion
+Level: 25
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Bitter Malice
+- Hyper Voice
+- Psychic
+- Sludge Bomb
+
+JORDAN (Moltres-Galar)
+Ability: Berserk
+Level: 24
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Air Slash
+- Fiery Wrath
+- Nasty Plot
+- Hyper Voice
+
+JORDAN (Greedent) @ Sitrus Berry
+Ability: Cheek Pouch
+Level: 25
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Ice Fang
+- Gyro Ball
+- Swords Dance
+- High Horsepower
+
+DROPS (Pelipper)
+Ability: Drizzle
+Level: 25
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Hurricane
+- Water Pulse
+- U-turn
+
+DROPS (Kingdra)
+Ability: Swift Swim
+Level: 25
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Dragon Breath
+- Water Pulse
+- Flip Turn
+
+DROPS (Zapdos)
+Ability: Static
+Level: 24
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Air Slash
+- Shock Wave
+- Volt Switch
+- Weather Ball
+
+DROPS (Arbok)
+Ability: Intimidate
+Level: 25
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Poison Jab
+- Crunch
+- Scale Shot
+
+NHA (Polteageist)
+Ability: Cursed Body
+Level: 65
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Will-O-Wisp
+- Light Screen
+- Reflect
+- Sucker Punch
+
+NHA (Meowscarada)
+Ability: Protean
+Level: 65
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Flower Trick
+- Sucker Punch
+- Triple Axel
+- Trick Room
+
+NHA (Tyranitar)
+Ability: Sand Stream
+Level: 64
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Rock Slide
+- Earthquake
+- Dragon Dance
+- Outrage
+
+NHA (Milotic)
+Ability: Competitive
+Level: 64
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Ice Beam
+- Hypnosis
+- Hydro Pump
+- Coil
+
+NHA (Arcanine)
+Ability: Intimidate
+Level: 64
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Flare Blitz
+- Extreme Speed
+- Snarl
+- Wild Charge
+
+DISCOSTU (Quaquaval)
+Ability: Moxie
+Level: 42
+Timid Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Flamethrower
+- Energy Ball
+- Overheat
+- Nasty Plot
+
+DISCOSTU (Kommo-o)
+Ability: Overcoat
+Level: 38
+Serious Nature
+IVs: 16 HP / 4 Atk / 11 Def / 18 SpA / 9 SpD / 10 Spe
+- Clangorous Soul
+- Clanging Scales
+- Aura Sphere
+- Flash Cannon
+
+DISCOSTU (Oricorio-Pom-Pom)
+Ability: Dancer
+Level: 40
+Serious Nature
+IVs: 15 HP / 3 Atk / 10 Def / 16 SpA / 13 SpD / 18 Spe
+- Quiver Dance
+- Revelation Dance
+- Roost
+- Air Slash
+
+DISCOSTU (Oricorio-Sensu)
+Ability: Dancer
+Level: 40
+Serious Nature
+IVs: 15 HP / 3 Atk / 10 Def / 16 SpA / 13 SpD / 18 Spe
+- Quiver Dance
+- Revelation Dance
+- Roost
+- Air Slash
+
+MRAMAZING (Ninetales)
+Ability: Drought
+Level: 41
+Timid Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Flamethrower
+- Energy Ball
+- Overheat
+- Nasty Plot
+
+MRAMAZING (Typhlosion-Hisui) @ Choice Scarf
+Ability: Blaze
+Level: 40
+Modest Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Eruption
+- Flamethrower
+- Shadow Ball
+- Focus Blast
+
+MRAMAZING (Goodra-Hisui)
+Ability: Shell Armor
+Level: 40
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Acid Armor
+- Body Press
+- Heavy Slam
+- Protect
+
+MRAMAZING (Rillaboom)
+Ability: Grassy Surge
+Level: 41
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Grassy Glide
+- Wood Hammer
+- High Horsepower
+- Fake Out
+
+MRAMAZING (Snorlax)
+Ability: Thick Fat
+Level: 42
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 0 Spe
+- Double-Edge
+- Fissure
+- Heavy Slam
+- Heat Crash
+
+BHANNY (Bronzong)
+Ability: Levitate
+Level: 32
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Stealth Rock
+- Gyro Ball
+- Body Press
+- Iron Defense
+
+BHANNY (Dragapult)
+Ability: Infiltrator
+Level: 32
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Draco Meteor
+- Shadow Ball
+- Thunderbolt
+- U-turn
+
+BHANNY (Blaziken)
+Ability: Speed Boost
+Level: 32
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Flare Blitz
+- Close Combat
+- Detect
+- Will-O-Wisp
+
+BHANNY (Ursaluna) @ Flame Orb
+Ability: Guts
+Level: 32
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Facade
+- Earthquake
+- Ice Punch
+- Protect
+
+BHANNY (Gardevoir)
+Ability: Trace
+Level: 33
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Moonblast
+- Psychic
+- Hypnosis
+- Calm Mind
+
+GABMOTT (Glimmora)
+Ability: Toxic Debris
+Level: 50
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Sludge Bomb
+- Earth Power
+- Power Gem
+- Spiky Shield
+
+GABMOTT (Gardevoir)
+Ability: Trace
+Level: 50
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Moonblast
+- Psychic
+- Draining Kiss
+- Encore
+
+GABMOTT (Chandelure)
+Ability: Flame Body
+Level: 50
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Heat Wave
+- Hex
+- Will-O-Wisp
+- Trick Room
+
+GABMOTT (Ursaluna) @ Flame Orb
+Ability: Guts
+Level: 49
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Earthquake
+- Facade
+- Shadow Claw
+- Protect
+
+GABMOTT (Aegislash)
+Ability: Stance Change
+Level: 49
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Shadow Ball
+- Flash Cannon
+- Metal Sound
+- King's Shield
+
+KEEGACHU (Whimsicott) @ Eject Button
+Ability: Prankster
+Level: 57
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Tailwind
+- Moonblast
+- Switcheroo
+- Taunt
+
+KEEGACHU (Malamar)
+Ability: Contrary
+Level: 55
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Superpower
+- Knock Off
+- Psycho Cut
+- Rock Slide
+
+KEEGACHU (Terrakion)
+Ability: Justified
+Level: 55
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Close Combat
+- Rock Slide
+- Iron Head
+- High Horsepower
+
+KEEGACHU (Slowpoke) @ Eviolite
+Ability: Oblivious
+Level: 58
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Foul Play
+- Psyshock
+- Slack Off
+- Yawn
+
+KEEGACHU (Baxcalibur)
+Ability: Thermal Exchange
+Level: 55
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Icicle Spear
+- Scale Shot
+- High Horsepower
+- Dragon Dance
+
+KEEGACHU (Komala) @ Choice Band
+Ability: Comatose
+Level: 57
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Double Edge
+
+FLAREBLITZ (Illumise) @ Light Clay
+Ability: Prankster
+Level: 74
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Struggle Bug
+- Light Screen
+- Thunder Wave
+- Tailwind
+
+FLAREBLITZ (Lucario) @ Choice Band
+Ability: Inner Focus
+Level: 74
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Close Combat
+- Meteor Mash
+- Extreme Speed
+- Crunch
+
+FLAREBLITZ (Raging Bolt) @ Assault Vest
+Ability: Protosynthesis
+Level: 74
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Thunderbolt
+- Thunderclap
+- Dragon Pulse
+- Volt Switch
+
+FLAREBLITZ (Primarina) @ Throat Spray
+Ability: Liquid Voice
+Level: 74
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Hyper Voice
+- Moonblast
+- Ice Beam
+- Psychic
+
+FLAREBLITZ (Ogerpon-Hearthflame) @ Hearthflame Mask
+Ability: Mold Breaker
+Level: 74
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Ivy Cudgel
+- Wood Hammer
+- Focus Energy
+- Spiky Shield
+
+FLAREBLITZ (Gholdengo) @ Life Orb
+Ability: Good as Gold
+Level: 74
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Make It Rain
+- Shadow Ball
+- Power Gem
+- Nasty Plot
+
+Electric (Flapple)
+Ability: Hustle
+Level: 16
+Serious Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Grav Apple
+- Outrage
+- Acrobatics
+- U-turn
+
+Electric (Togekiss)
+Ability: Hustle
+Level: 16
+Serious Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Play Rough
+- Extreme Speed
+- Aerial Ace
+- Drain Punch
+
+Electric (Lilligant-Hisui)
+Ability: Hustle
+Level: 16
+Serious Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- First Impression
+- Iron Head
+- Superpower
+- Crunch
+
+Electric (Durant)
+Ability: Hustle
+Level: 16
+Serious Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Leaf Blade
+- Axe Kick
+- Triple Axel
+- Acrobatics
+
+Electric (Dracozolt)
+Ability: Hustle
+Level: 16
+Serious Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bolt Beak
+- Outrage
+- Earthquake
+- Rock Slide
+
+Y.E.G. (Hippopotas) @ Smooth Rock
+Ability: Sand Stream
+Level: 16
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Stealth Rock
+- Toxic
+- Dig
+- Rest
+
+Y.E.G. (Gible) @ Bright Powder
+Ability: Sand Veil
+Level: 16
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Dig
+- Substitute
+- Sand Attack
+- Rock Tomb
+
+Y.E.G. (Bronzor) @ Sitrus Berry
+Ability: Levitate
+Level: 16
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Hypnosis
+- Confuse Ray
+- Sandstorm
+- Payback
+
+Y.E.G. (Shellos) @ Focus Sash
+Ability: Sand Force
+Level: 16
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Mirror Coat
+- Counter
+- Whirlpool
+- Yawn
+
+Y.E.G. (Furret) @ Ring Target
+Ability: Keen Eye
+Level: 17
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Trick
+- Last Resort
+
+Chef Parry (Scovillain) @ leftovers
+Ability: Moody
+Level: 25
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Leaf Storm
+- Overheat
+- Spicy Extract
+- Flamethrower
+
+Chef Parry (Tatsugiri) @ leftovers
+Ability: Storm Drain
+Level: 25
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Draco Meteor
+- Muddy Water
+- Ice Beam
+- Nasty Plot
+
+Chef Parry (Dachsbun) @ leftovers
+Ability: Well-Baked Body
+Level: 25
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Play Rough
+- Body Press
+- Stomping Tantrum
+- Baby-Doll Eyes
+
+Chef Parry (Garganacl) @ Leftovers
+Ability: Purifying Salt
+Level: 25
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Salt Cure
+- Body Press
+- Iron Defense
+- Protect
+
+Chef Parry (Rotom-Frost) @ leftovers
+Ability: Levitate
+Level: 25
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Blizzard
+- Thunderbolt
+- Will-O-Wisp
+- Eerie Impulse
+
+Dasnowman (Pelipper) @ Damp Rock
+Ability: Drizzle
+Level: 60
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Hurricane
+- Weather Ball
+- Roost
+- U-Turn
+
+Dasnowman (Golduck) @ Choice Specs
+Ability: Swift Swim
+Level: 60
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Scald
+- Signal Beam
+- Grass Knot
+- Flip Turn
+
+Dasnowman (Corviknight) @ Rocky Helmet
+Ability: Mirror Armor
+Level: 60
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Iron Defense
+- Body Press
+- Roost
+- Drill Peck
+
+Dasnowman (Electivire) @ Punching Glove
+Ability: Motor Drive
+Level: 60
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Power-Up Punch
+- Thunder Punch
+- Ice Punch
+- Trailblaze
+
+Dasnowman (Tentacruel) @ Black Sludge
+Ability: Rain Dish
+Level: 60
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Toxic
+- Infestation
+- Rain Dance
+- Protect
+
+VietJesus (Sinistcha)
+Ability: Heatproof
+Level: 62
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Matcha-Gotcha
+- Scald
+- Strength Sap
+- Shadow Ball
+
+VietJesus (BASCULEGION)
+Ability: Adaptability
+Level: 62
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Aqua Jet
+- Last Respects
+- Waterfall
+- Ice Fang
+
+VietJesus (Garchomp)
+Ability: Rough Skin
+Level: 62
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Dragon Claw
+- Earthquake
+- Iron Head
+- Poison Jab
+
+VietJesus (Hariyama) @ Flame Orb
+Ability: Guts
+Level: 62
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Drain Punch
+- Close Combat
+- Knock Off
+- Ice Punch
+
+VietJesus (Charizard)
+Ability: Solar Power
+Level: 62
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Weather Ball
+- Heat Wave
+- Hurricane
+- Thunder Punch
+
+TED (Lucario)
+Ability: Inner Focus
+Level: 48
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Close Combat
+- Meteor Mash
+- Earthquake
+- Vacuum Wave
+
+TED (Dragapult)
+Ability: Cursed Body
+Level: 48
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Dragon Darts
+- U-Turn
+- Phantom Force
+- Psychic Fangs
+
+TED (Lickilicky) @ Sitrus Berry
+Ability: Oblivious
+Level: 48
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Toxic
+- Body Slam
+- Knock Off
+- Power-Up Punch
+
+TED (Gastrodon) @ Leftovers
+Ability: Storm Drain
+Level: 48
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Stealth Rocks
+- Surf
+- Earth Power
+- Recover
+
+TED (Togekiss)
+Ability: Serene Grace
+Level: 48
+Serious Nature
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Air Slash
+- Dazzling Gleam
+- Flamethrower
+- Ancient Power
