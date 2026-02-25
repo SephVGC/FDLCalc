@@ -376,8 +376,7 @@ function addSets(pokes, name) {
 		addToDex(pokelist[i]);
 	}
 	if (addedpokes > 0) {
-		$(allPokemon("#importedSetsOptions")).css("display", "inline");
-		// if P1 is currently showing one of the imported sets, enforce cap now
+		// cap dropdown already visible; enforce on P1 if necessary
 		var cap = getCustomLevelCap();
 		if (cap > 0) {
 			var p1val = $("#p1 input.set-selector").val();
@@ -442,7 +441,6 @@ $("#clearSets").click(function () {
 		return
 	}
 	localStorage.removeItem("customsets");
-	$(allPokemon("#importedSetsOptions")).hide();
 	loadDefaultLists();
 	for (let zone of document.getElementsByClassName("dropzone")){
 		zone.innerHTML="";
@@ -474,10 +472,10 @@ $(document).ready(function () {
 		applyCustomLevelCap(cap);
 		updateDex(customSets);
 		selectFirstMon();
-		$(allPokemon("#importedSetsOptions")).css("display", "inline");
-	} else {
-		loadDefaultLists();
 	}
+	loadDefaultLists();
+	// always show the imported-sets/options span so cap selector is visible
+	$(allPokemon("#importedSetsOptions")).css("display", "inline");
 	//adjust the side buttons that collapse the data wished to be hidden
 	setupSideCollapsers();
 
