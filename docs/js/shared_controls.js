@@ -579,7 +579,13 @@ q
 			if (regSets) {
 				pokeObj.find(".teraType").val(set.teraType || pokemon.types[0]);
 			}
-			pokeObj.find(".level").val(set.level);
+			// clamp the level to current cap when loading (P1 only)
+			if (pokeObj.prop('id') === 'p1') {
+				var lvl = clampLevelToCap(set.level);
+				pokeObj.find(".level").val(lvl);
+			} else {
+				pokeObj.find(".level").val(set.level);
+			}
 			pokeObj.find(".hp .evs").val((set.evs && set.evs.hp !== undefined) ? set.evs.hp : 0);
 			pokeObj.find(".hp .ivs").val((set.ivs && set.ivs.hp !== undefined) ? set.ivs.hp : 31);
 			pokeObj.find(".hp .dvs").val((set.dvs && set.dvs.hp !== undefined) ? set.dvs.hp : 15);
@@ -681,6 +687,17 @@ q
 		} else pokeObj.find(".gender").parent().show();
 	}
 	window.NO_CALC = false;
+});
+
+// ensure level inputs never exceed the current cap when typed manually (P1 only)
+$(document).on('change keyup', '#p1 .level', function () {
+	var cap = getCustomLevelCap();
+	if (cap > 0) {
+		var v = parseInt($(this).val(), 10);
+		if (!isNaN(v) && v > cap) {
+			$(this).val(cap);
+		}
+	}
 });
 
 function formatMovePool(moves) {
@@ -1210,6 +1227,18 @@ function clearField() {
 	$("#switchingL").prop("checked", false);
 	$("#switchingR").prop("checked", false);
 	$("input:checkbox[name='terrain']").prop("checked", false);
+}
+
+// helper to read the current custom level cap (0 = none)
+function getCustomLevelCap() {
+	var cap = parseInt(localStorage.customLevelCap || "0", 10);
+	return isNaN(cap) ? 0 : cap;
+}
+
+function clampLevelToCap(lvl) {
+	var cap = getCustomLevelCap();
+	if (cap > 0 && lvl > cap) return cap;
+	return lvl;
 }
 
 function getSetOptions(sets) {

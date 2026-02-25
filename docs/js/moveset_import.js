@@ -303,6 +303,36 @@ function sortImports (a,b){
 	return -1
 }
 
+// helpers for the level‑cap dropdown. 0 means no cap.
+function getCustomLevelCap() {
+    var cap = parseInt(localStorage.customLevelCap || "0", 10);
+    return isNaN(cap) ? 0 : cap;
+}
+
+// only enforce cap on Pokémon 1 input box, do not alter stored sets
+function applyCustomLevelCap(cap) {
+    if (cap > 0) {
+        $('#p1 .level').val(cap);
+    }
+}
+
+function setCustomLevelCap(cap) {
+    if (cap < 0) cap = 0;
+    localStorage.customLevelCap = cap;
+    applyCustomLevelCap(cap);
+}
+
+function clampDisplayedLevels(cap) {
+    if (cap <= 0) return; // nothing to do
+    $('.poke-info').each(function () {
+        var lvlInput = $(this).find('.level');
+        var val = parseInt(lvlInput.val(), 10);
+        if (!isNaN(val) && val > cap) {
+            lvlInput.val(cap).keyup();
+        }
+    });
+}
+
 function addSets(pokes, name) {
 	var rows = pokes.split("\n");
 	var currentRow;
@@ -326,6 +356,11 @@ function addSets(pokes, name) {
 				currentPoke.ability = getAbility(rows[i + 1].split(":"));
 				currentPoke.teraType = getTeraType(rows[i + 1].split(":"));
 				currentPoke = getStats(currentPoke, rows, i + 1);
+				// apply cap to newly imported set
+				var cap = getCustomLevelCap();
+				if (cap > 0 && currentPoke.level > cap) {
+					currentPoke.level = cap;
+				}
 				currentPoke = getMoves(currentPoke, rows, i);
 				if (currentPoke.nature == "-") {
 					currentPoke.nature = "Serious";
@@ -342,6 +377,18 @@ function addSets(pokes, name) {
 	}
 	if (addedpokes > 0) {
 		$(allPokemon("#importedSetsOptions")).css("display", "inline");
+		// if P1 is currently showing one of the imported sets, enforce cap now
+		var cap = getCustomLevelCap();
+		if (cap > 0) {
+			var p1val = $("#p1 input.set-selector").val();
+			for (var k = 0; k < pokelist.length; k++) {
+				var importedId = pokelist[k].name + " (" + pokelist[k].nameProp + ")";
+				if (p1val === importedId) {
+					$('#p1 .level').val(cap);
+					break;
+				}
+			}
+		}
 	} else {
 		alert("No sets imported, please check your syntax and try again");
 	}
@@ -416,8 +463,15 @@ $(allPokemon("#importedSets")).click(function () {
 $(document).ready(function () {
 	var customSets;
 	placeBsBtn();
+	// initialize level cap dropdown and apply existing cap to P1
+	var cap = getCustomLevelCap();
+	if (cap > 0) {
+		$('#p1 #customLevelCap').val(cap.toString());
+	}
+
 	if (localStorage.customsets) {
 		customSets = JSON.parse(localStorage.customsets);
+		applyCustomLevelCap(cap);
 		updateDex(customSets);
 		selectFirstMon();
 		$(allPokemon("#importedSetsOptions")).css("display", "inline");
@@ -426,4 +480,11 @@ $(document).ready(function () {
 	}
 	//adjust the side buttons that collapse the data wished to be hidden
 	setupSideCollapsers();
+
+	// dropdown handler for cap changes – only affect Pokémon 1
+	$("#p1 #customLevelCap").change(function () {
+		var newCap = parseInt($(this).val(), 10);
+		if (isNaN(newCap)) newCap = 0;
+		setCustomLevelCap(newCap);
+	});
 });
