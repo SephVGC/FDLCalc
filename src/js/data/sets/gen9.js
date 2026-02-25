@@ -2151,9 +2151,9 @@ var SETDEX_SV = {
   },
   "Quaquaval": {
     "DISCOSTU": {
-      "level": 42,
+      "level": 60,
       "ability": "Moxie",
-      "nature": "Timid",
+      "nature": "Serioius",
       "ivs": {
         "hp": 30,
         "at": 30,
@@ -2163,26 +2163,26 @@ var SETDEX_SV = {
         "sp": 30
       },
       "moves": [
-        "Flamethrower",
-        "Energy Ball",
-        "Overheat",
-        "Nasty Plot"
+        "Aqua Step",
+        "Close Combat",
+        "Ice Spinner",
+        "Aqua Jet"
       ],
       "index": 19
     }
   },
   "Kommo-o": {
     "DISCOSTU": {
-      "level": 38,
+      "level": 60,
       "ability": "Overcoat",
       "nature": "Serious",
       "ivs": {
-        "hp": 16,
-        "at": 4,
-        "df": 11,
-        "sa": 18,
-        "sd": 9,
-        "sp": 10
+        "hp": 30,
+        "at": 30,
+        "df": 30,
+        "sa": 30,
+        "sd": 30,
+        "sp": 30
       },
       "moves": [
         "Clangorous Soul",
@@ -2195,16 +2195,16 @@ var SETDEX_SV = {
   },
   "Oricorio-Pom-Pom": {
     "DISCOSTU": {
-      "level": 40,
+      "level": 61,
       "ability": "Dancer",
       "nature": "Serious",
       "ivs": {
-        "hp": 15,
-        "at": 3,
-        "df": 10,
-        "sa": 16,
-        "sd": 13,
-        "sp": 18
+        "hp": 30,
+        "at": 30,
+        "df": 30,
+        "sa": 30,
+        "sd": 30,
+        "sp": 30
       },
       "moves": [
         "Quiver Dance",
@@ -2217,16 +2217,16 @@ var SETDEX_SV = {
   },
   "Oricorio-Sensu": {
     "DISCOSTU": {
-      "level": 40,
+      "level": 62,
       "ability": "Dancer",
       "nature": "Serious",
       "ivs": {
-        "hp": 15,
-        "at": 3,
-        "df": 10,
-        "sa": 16,
-        "sd": 13,
-        "sp": 18
+        "hp": 30,
+        "at": 30,
+        "df": 30,
+        "sa": 30,
+        "sd": 30,
+        "sp": 30
       },
       "moves": [
         "Quiver Dance",
