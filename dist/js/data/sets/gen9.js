@@ -334,7 +334,7 @@ var SETDEX_SV = {
         "sp": 15
       },
       "moves": [
-        "Aurora Beam",
+        "Frost Breath",
         "Chilling Water",
         "Encore",
         "Flip Turn"
@@ -1276,7 +1276,7 @@ var SETDEX_SV = {
         "Calm Mind",
         "Fickle Beam",
         "Thunderbolt",
-        "Recover"
+        "Shore Up"
       ],
       "index": 27
     }
@@ -1350,7 +1350,7 @@ var SETDEX_SV = {
   "Arcanine": {
     "JUDE": {
       "level": 72,
-      "ability": "Infiltrator",
+      "ability": "Intimidate",
       "item": "Leftovers",
       "nature": "Serious",
       "ivs": {
@@ -1362,10 +1362,10 @@ var SETDEX_SV = {
         "sp": 30
       },
       "moves": [
-        "Wood Hammer",
-        "Shadow Sneak",
-        "Phantom Force",
-        "Leech Seed"
+        "Fire Blast",
+        "Extreme Speed",
+        "Yawn",
+        "Protect"
       ],
       "index": 27
     },
@@ -2036,7 +2036,7 @@ var SETDEX_SV = {
         "Hurricane",
         "Weather Ball",
         "Roost",
-        "U-Turn"
+        "U-turn"
       ],
       "index": 17
     }
@@ -2339,7 +2339,7 @@ var SETDEX_SV = {
       },
       "moves": [
         "Dragon Darts",
-        "U-Turn",
+        "U-turn",
         "Phantom Force",
         "Psychic Fangs"
       ],
@@ -2454,7 +2454,7 @@ var SETDEX_SV = {
       "index": 14
     }
   },
-  "Aegislash": {
+  "Aegislash-Both": {
     "GABMOTT": {
       "level": 49,
       "ability": "Stance Change",
@@ -2603,7 +2603,7 @@ var SETDEX_SV = {
         "sp": 30
       },
       "moves": [
-        "Double Edge"
+        "Double-Edge"
       ],
       "index": 15
     }
@@ -2733,10 +2733,10 @@ var SETDEX_SV = {
         "sp": 31
       },
       "moves": [
-        "First Impression",
-        "Iron Head",
-        "Superpower",
-        "Crunch"
+        "Leaf Blade",
+        "Axe Kick",
+        "Triple Axel",
+        "Acrobatics"
       ],
       "index": 3
     }
@@ -2755,10 +2755,10 @@ var SETDEX_SV = {
         "sp": 31
       },
       "moves": [
-        "Leaf Blade",
-        "Axe Kick",
-        "Triple Axel",
-        "Acrobatics"
+        "First Impression",
+        "Iron Head",
+        "Superpower",
+        "Crunch"
       ],
       "index": 3
     }
@@ -3059,7 +3059,7 @@ var SETDEX_SV = {
       "index": 17
     }
   },
-  "BASCULEGION": {
+  "Basculegion (M)": {
     "VietJesus": {
       "level": 62,
       "ability": "Adaptability",
@@ -3164,7 +3164,7 @@ var SETDEX_SV = {
         "sp": 30
       },
       "moves": [
-        "Stealth Rocks",
+        "Stealth Rock",
         "Surf",
         "Earth Power",
         "Recover"

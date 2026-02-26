@@ -376,17 +376,11 @@ function addSets(pokes, name) {
 		addToDex(pokelist[i]);
 	}
 	if (addedpokes > 0) {
-		// cap dropdown already visible; enforce on P1 if necessary
+		// cap dropdown already visible; always enforce on P1 regardless of which set is selected
 		var cap = getCustomLevelCap();
 		if (cap > 0) {
-			var p1val = $("#p1 input.set-selector").val();
-			for (var k = 0; k < pokelist.length; k++) {
-				var importedId = pokelist[k].name + " (" + pokelist[k].nameProp + ")";
-				if (p1val === importedId) {
-					$('#p1 .level').val(cap);
-					break;
-				}
-			}
+			// applyCustomLevelCap will set the level input for P1 to the cap
+			applyCustomLevelCap(cap);
 		}
 	} else {
 		alert("No sets imported, please check your syntax and try again");
