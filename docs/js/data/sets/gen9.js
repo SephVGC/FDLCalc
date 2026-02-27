@@ -1239,7 +1239,7 @@ var SETDEX_SV = {
     "JUDE": {
       "level": 72,
       "ability": "Neutralizing Gas",
-      "item": "Black Sludge",
+      "item": "Air Balloon",
       "nature": "Serious",
       "ivs": {
         "hp": 30,
@@ -1328,7 +1328,7 @@ var SETDEX_SV = {
     "JUDE": {
       "level": 72,
       "ability": "Water Bubble",
-      "item": "Leftovers",
+      "item": "Rocky Helmet",
       "nature": "Serious",
       "ivs": {
         "hp": 30,

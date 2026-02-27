@@ -126,6 +126,10 @@ function calculationsColors(p1info, p2) {
 		var p2 = createPokemon(p2info);
 	}
 	var p1 = createPokemon(p1info);
+	// apply custom level cap when working with a set string (trainer list)
+	if (typeof p1info === "string") {
+		p1.level = clampLevelToCap(p1.level);
+	}
 	var p1field = createField();
 	var p2field = p1field.clone().swap();
 
