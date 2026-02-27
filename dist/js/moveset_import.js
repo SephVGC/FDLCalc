@@ -320,6 +320,11 @@ function setCustomLevelCap(cap) {
     if (cap < 0) cap = 0;
     localStorage.customLevelCap = cap;
     applyCustomLevelCap(cap);
+    // update any level inputs on screen and refresh color codes if visible
+    clampDisplayedLevels(cap);
+    if (typeof refreshColorCode === 'function') {
+        refreshColorCode();
+    }
 }
 
 function clampDisplayedLevels(cap) {
